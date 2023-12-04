@@ -1,0 +1,45 @@
+<html>
+<head>
+<h1>
+ <title> apples </title>
+</h1>
+<style>
+ {box-sizing: border-box;
+}
+<body>
+ {background-color: pink;
+}
+#box {
+border: black;
+}
+</style>
+<p> Apples are red... like nature bled! </p>
+</body>
+<h2>
+ <title> pears </title>
+</h2>
+<style>
+ {box-sizing:border-box;
+}
+<body>
+ {background-color: green;
+}
+#box {
+border:black;
+}
+</style>
+<p> Pears are green, like the trees! </p>
+</body>
+<h3>
+ <title> mangoes </title>
+</h3>
+<style>
+ {box-sizing: border-box;
+}
+#box {
+border:;
+}
+</style>
+<p> Mangoes are yellow, they make whoever eats one mellow! </p>
+</body>
+</html>
